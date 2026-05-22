@@ -1,6 +1,4 @@
 env/
-2016_Building_Energy_Benchmarking.csv
-P3 - SEATTLE.pptx
-P3 - SEATTLE OPENCLASSROOMS.pptx
-df_total_CO2.csv
-df_total_ENERGY.csv
+data/
+docs/  
+images
